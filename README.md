@@ -1,4 +1,4 @@
-# Всем привет, меня зовут Adam и Я Frontend разработчик! <br/>
+# Всем привет, меня зовут Ibragim Я Frontend разработчик! <br/>
 ### Участвовал в разработке следующих проектов:
 * Продажа ПК с возможностью сборки [Code-Front](https://github.com/SaluevS/team-MadePC-Front)  |  [Code-Back](https://github.com/SaluevS/team-madePC-back)  |  [Preview](https://madepc-frontend.onrender.com/)
 * Сайт ландшафтного дизайна [Code-Front](https://github.com/SaluevS/project-forest-front)  |  [Code-Back](https://github.com/SaluevS/project-forest-back)
